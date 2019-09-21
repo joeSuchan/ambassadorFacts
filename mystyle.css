@@ -1,0 +1,42 @@
+
+h1{text-align:center;}
+
+@media only screen and (min-width: 320px) {
+  .btn-success{width:100%;
+  height: 3em;
+  font-size:1.5em;
+  background-color: #3c763d;
+  }
+  #fineArts{text-align:center;
+  font-size: 1.5em;}
+  
+    #human{text-align:center;
+  font-size: 1.5em;}
+  
+    #lang{text-align:center;
+  font-size: 1.5em;}
+  
+    #math{text-align:center;
+  font-size: 1.5em;}
+  
+    #natSci{text-align:center;
+  font-size: 1.5em;}
+  
+    #ag{text-align:center;
+  font-size: 1.5em;}
+  
+    #business{text-align:center;
+  font-size: 1.5em;}
+  
+    #comm{text-align:center;
+  font-size: 1.5em;}
+  
+    #compSci{text-align:center;
+  font-size: 1.5em;}
+  
+    #ed{text-align:center;
+  font-size: 1.5em;}
+  
+    #health{text-align:center;
+  font-size: 1.5em;}
+}
